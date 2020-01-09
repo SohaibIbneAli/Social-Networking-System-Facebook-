@@ -1,7 +1,2 @@
 sibneali	45678
-umar		55555			
-			
-			
-dsfg			
-sdfs			
-			
+umar		55555						
