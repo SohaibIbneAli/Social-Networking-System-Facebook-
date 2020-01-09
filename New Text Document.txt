@@ -1,0 +1,13 @@
+			 ifstream in; in.open("input.txt");
+			 string a;
+			 in >> a;
+
+	 textBox1->Text = System::Convert::ToString(a);
+
+
+ if (textBox1->Text == "122")
+			 {
+				 double x = System::Convert::ToDouble(textBox1->Text);
+				 x = x + 1;
+				 textBox1->Text = System::Convert::ToString(x);
+			 }
